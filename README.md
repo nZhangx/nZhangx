@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nZhangx
 - BSc. Biochemistry & Math @ McMaster University
 - MSc. Bioinformatics @ UBC (Wasserman & Mostafavi lab)
+- Incoming MD-PhD student @ McGill
 - 👀 I’m interested in Machine learning & genomics & medicine
 - 📫 Reach me at nicolezhng211@gmail.com
 
