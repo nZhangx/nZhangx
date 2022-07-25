@@ -2,7 +2,7 @@
 - BSc. Biochemistry & Math @ McMaster University
 - MSc. Bioinformatics @ UBC
 - (2021-2022) ML Graduate Research Intern @ Deep Genomics
-- Incoming MD-PhD student @ McGill (Supervised by Prof. Yoshua Bengio & Mathieu Blanchette)
+- MD-PhD student @ McGill (Supervised by Prof. Yoshua Bengio & Mathieu Blanchette @ Mila - Quebec AI Institute)
 - 👀 I’m interested in Machine learning & genomics & medicine
 - 📫 Reach me at xi.zhang@mila.quebec
 
